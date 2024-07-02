@@ -22,6 +22,7 @@ mvn clean install
 ## Ejecución
 
 ```
+java -cp "target/classes:target/dependency/*" edu/escuelaing/arsw/ASE/app/HttpServer.java
 ```
 
 ## License
