@@ -2,7 +2,7 @@
 
 Juan Pablo Poveda Cañon
 
-# Parcial 2
+# Parcial 1
 
 
 ## Prerequisitos
@@ -13,13 +13,16 @@ Git: Administrador descentralizado de configuraciones.
 
 ## Instalación
 
-Para crear el proyecto maven se usa el siguiente comando:
+Para instalar el proyecto maven se usa el siguiente comando:
 
 ```
-mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=LOC_Counting_Taller1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn clean install
 ```
 
 ## Ejecución
+
+```
+```
 
 ## License
 
