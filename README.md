@@ -21,3 +21,6 @@ mvn archetype:generate -DgroupId=edu.escuelaing.arsw.ASE.app -DartifactId=LOC_Co
 
 ## Ejecución
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
